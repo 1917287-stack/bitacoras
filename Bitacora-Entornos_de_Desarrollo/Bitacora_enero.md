@@ -6,3 +6,7 @@
 
 probamos intellij
 
+#### **(16/01) dia Viernes:** 
+
+dimos el tema 04 he hicimos ejercicios
+
