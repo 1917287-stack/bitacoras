@@ -12,3 +12,4 @@ dimos el tema 04 he hicimos ejercicios
 
 #### **(19/01) dia Lunes:** 
 
+clase teorica
