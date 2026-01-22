@@ -10,4 +10,7 @@ sesion 1 de DOM
 
 ejercicio 3 de javascript
 
+#### **(22/01) dia jueves:** 
+
+corregimos ejercicios de los cuadrados y vemos nueva tarea
 
