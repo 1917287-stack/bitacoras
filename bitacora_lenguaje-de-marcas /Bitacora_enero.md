@@ -14,3 +14,7 @@ ejercicio 3 de javascript
 
 corregimos ejercicios de los cuadrados y vemos nueva tarea
 
+#### **(23/01) dia viernes:** 
+
+repaso de la tarea hecha en la clase anterior y vimos la siguiente tarea
+
