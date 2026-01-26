@@ -17,3 +17,7 @@ clase teorica
 #### **(23/01) dia viernes:** 
 
 hacemos tarea 2
+
+#### **(26/01) dia lunes:** 
+
+entramos en un repositorio de prueba de github y vimos la siguiente tarea

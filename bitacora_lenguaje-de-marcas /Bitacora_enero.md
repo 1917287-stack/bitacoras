@@ -18,3 +18,7 @@ corregimos ejercicios de los cuadrados y vemos nueva tarea
 
 repaso de la tarea hecha en la clase anterior y vimos la siguiente tarea
 
+#### **(26/01) dia lunes:** 
+
+hicimos ejercicios
+
