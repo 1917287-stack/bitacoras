@@ -21,3 +21,7 @@ hacemos tarea 2
 #### **(26/01) dia lunes:** 
 
 entramos en un repositorio de prueba de github y vimos la siguiente tarea
+
+#### **(02/02) dia lunes:** 
+
+vimos la asociacion, agregacion y la composicion

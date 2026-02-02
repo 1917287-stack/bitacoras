@@ -22,3 +22,10 @@ repaso de la tarea hecha en la clase anterior y vimos la siguiente tarea
 
 hicimos ejercicios
 
+#### **(02/02) dia lunes:** 
+
+dimos XML + ejercicios
+
+
+
+
