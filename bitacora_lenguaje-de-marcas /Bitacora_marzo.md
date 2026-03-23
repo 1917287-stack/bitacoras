@@ -17,3 +17,7 @@ correjimos ejercicio
 #### **(09/03) dia lunes:** 
 
 seguimos con el temarios
+
+#### **(23/03) dia lunes:** 
+
+correjimos ejercicios
